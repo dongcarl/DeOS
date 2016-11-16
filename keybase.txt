@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/deos
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.desantis.io
+  * I am deos (https://keybase.io/deos) on keybase.
+  * I have a public key with fingerprint F69F B6BC 9CA6 3F41 FEF7  8369 0F5C F555 5E20 AADF
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01012759bead4212c01d985bb5a036489c120243b85b35ed5ccb1ab9c654b083f17e0a",
+            "fingerprint": "f69fb6bc9ca63f41fef783690f5cf5555e20aadf",
+            "host": "keybase.io",
+            "key_id": "0f5cf5555e20aadf",
+            "kid": "01012759bead4212c01d985bb5a036489c120243b85b35ed5ccb1ab9c654b083f17e0a",
+            "uid": "052d7c05a8321ebe6f02b9e8fe057919",
+            "username": "deos"
+        },
+        "service": {
+            "hostname": "www.desantis.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1479324024,
+    "expire_in": 157680000,
+    "prev": "99abf812db962dc11b966a880b98140cb51ffd61e0fd284e331b84ff9a75b86f",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMIoAnicrVJZSFVRFH2vQct6qRhEIA0XArOnnHPn8yKMaDCMeNZHs4977j1Hb9q7
+z3uv+tSMkgalARuIIrO5jyhCI5Em0wYqQSvKKKifIsqsj4LKwujctK9+2z+bs/fa
+66y92LcDI31J/j2LrAvUdy7V39VxsMy3Mtgcr+awZVRyoWqumPxJpMQgjhspNg0u
+xAEIIK9ICBPNEHnI6wAaSJUwljQgyKKKdMgDXhQwqwkSMSRdx1DDSJclEQNVoFAh
+QOOCHDWjhcSO2WbUZbRURhTLWEe6JgtUhJRQRRVkBKikU4kF4YGmGZQNFlmON8HE
+Yc0h2abFauwRGZL3L/4/6y4bopN4Q9GBpKkCDwkmMgU8RkSlBEgKgsgDOsSOahsI
+QxvEcriaIMcq5aZOPFO9LYa7FRUV2cxhLeqaztA6MdtyLd0qYc0i1405IW/YrYz9
+QRMcGeaJYDNqMBvZRDmxHdOKciHIkLpresRQVJDAi2yrIEfiMdMmEdNDSIqsAhbe
+P6ScUSKkYapC3sBI5g0dQpZlTVUBRioUgY4lSKkhQwKowasiEQSIVZFSpCkSVmXP
+ZIeURi0uxDOZWiGjdMzCqOaW2YSr6by5dpTPn+RLGD3COy9f0tiUv0fXuTzxF1/6
+ZukPI6xGxj6ZHx6Y/TGlsWvj5+Tu+wXdDZO+/Xo3ZpxzeNEde6Rybd/u1Jk92bXz
+r9Rztav7V+xt60hPO9/fo+MtdW3VH2vWRDIXdFoFG16aVz8tLrZbZvVmtAU+XOyL
+52ybFp56vf5sbUNu3teEvNMnE+ri2eH8JaMP1L3N2tTWdCOwatTr3Kq9mecSkx5+
+AeXvt+9HP4/YC/uCudO+X374fHz77MwJR988vgSrXu3a9uzR5B1VT56+6z1VM7f5
+Xl5vesvCe61pyVJr+olJXTn+6QNlOY3z1p3JKGmY8+L4lKbpgyCctfnQjHz/A/HC
+Mdq+tTXQFxi8NTUt3p65c+L6u8se/QYjkDzt
+=HFNm
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/deos
+
+==================================================================
