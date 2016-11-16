@@ -4,7 +4,7 @@ https://keybase.io/deos
 
 I hereby claim:
 
-  * I am an admin of https://www.desantis.io
+  * I am an admin of https://desantis.io
   * I am deos (https://keybase.io/deos) on keybase.
   * I have a public key with fingerprint F69F B6BC 9CA6 3F41 FEF7  8369 0F5C F555 5E20 AADF
 
@@ -21,17 +21,22 @@ To do so, I am signing this object:
             "uid": "052d7c05a8321ebe6f02b9e8fe057919",
             "username": "deos"
         },
+        "revoke": {
+            "sig_ids": [
+                "71a3a7de21482b6d0102abd76e14294fed3baed7d12d6cb9187afeb8d06674910f"
+            ]
+        },
         "service": {
-            "hostname": "www.desantis.io",
+            "hostname": "desantis.io",
             "protocol": "https:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1479324024,
+    "ctime": 1479324400,
     "expire_in": 157680000,
-    "prev": "99abf812db962dc11b966a880b98140cb51ffd61e0fd284e331b84ff9a75b86f",
-    "seqno": 2,
+    "prev": "7e2da453437fd97bfcd3439324d97b2e8000edcc4a87ff9f31f4caa59c158509",
+    "seqno": 3,
     "tag": "signature"
 }
 
@@ -41,23 +46,24 @@ which yields the signature:
 Version: Keybase OpenPGP v2.0.58
 Comment: https://keybase.io/crypto
 
-yMIoAnicrVJZSFVRFH2vQct6qRhEIA0XArOnnHPn8yKMaDCMeNZHs4977j1Hb9q7
-z3uv+tSMkgalARuIIrO5jyhCI5Em0wYqQSvKKKifIsqsj4LKwujctK9+2z+bs/fa
-66y92LcDI31J/j2LrAvUdy7V39VxsMy3Mtgcr+awZVRyoWqumPxJpMQgjhspNg0u
-xAEIIK9ICBPNEHnI6wAaSJUwljQgyKKKdMgDXhQwqwkSMSRdx1DDSJclEQNVoFAh
-QOOCHDWjhcSO2WbUZbRURhTLWEe6JgtUhJRQRRVkBKikU4kF4YGmGZQNFlmON8HE
-Yc0h2abFauwRGZL3L/4/6y4bopN4Q9GBpKkCDwkmMgU8RkSlBEgKgsgDOsSOahsI
-QxvEcriaIMcq5aZOPFO9LYa7FRUV2cxhLeqaztA6MdtyLd0qYc0i1405IW/YrYz9
-QRMcGeaJYDNqMBvZRDmxHdOKciHIkLpresRQVJDAi2yrIEfiMdMmEdNDSIqsAhbe
-P6ScUSKkYapC3sBI5g0dQpZlTVUBRioUgY4lSKkhQwKowasiEQSIVZFSpCkSVmXP
-ZIeURi0uxDOZWiGjdMzCqOaW2YSr6by5dpTPn+RLGD3COy9f0tiUv0fXuTzxF1/6
-ZukPI6xGxj6ZHx6Y/TGlsWvj5+Tu+wXdDZO+/Xo3ZpxzeNEde6Rybd/u1Jk92bXz
-r9Rztav7V+xt60hPO9/fo+MtdW3VH2vWRDIXdFoFG16aVz8tLrZbZvVmtAU+XOyL
-52ybFp56vf5sbUNu3teEvNMnE+ri2eH8JaMP1L3N2tTWdCOwatTr3Kq9mecSkx5+
-AeXvt+9HP4/YC/uCudO+X374fHz77MwJR988vgSrXu3a9uzR5B1VT56+6z1VM7f5
-Xl5vesvCe61pyVJr+olJXTn+6QNlOY3z1p3JKGmY8+L4lKbpgyCctfnQjHz/A/HC
-Mdq+tTXQFxi8NTUt3p65c+L6u8se/QYjkDzt
-=HFNm
+yMJnAnicrVJdaB1FFL6JaYMpQUusGtFYtxJoe1tmZmd2dm/tk2JSb2JphSZg6mV+
+ziTrjbvX3b2pTXst4kORqiGgoKBItVWatgilLaXQWn+gBJEWQ9WXlhgUikqxD8YG
+f3C2UV98dV5mzpnvfOebb85n7bcU2ppe7YmPmsLU8qbPP75WLwwWj/28y5Gx3umU
+djlVuLnBqIY0q1RD7ZQchBEmnAUShKYEE4WwDnwmJRPI9agfKEwQoa60OZeBZkpJ
+LGSgPEYl8l2DOSDhFB0TRsOQ1JIwyiyt8QIjPakCJTzXUGzAcN/1AmSYMswuIEgI
+bWzhSJzmFVacFCmsD2Obs0FlUd5/8f+z7voiHSOaK8SE7xIMEjyDiAzAN4AYD3CQ
+A1NIIvEMWLSGOHUaRSeBsbgKuadpOGwFp07pSYdj4QqugWDqE+lpq5QIqbkHmJKA
+GtCuFKC5xkR7SgbY58KA9DXyPE4DjIyz3XLbbmOhukmeO/Rv51REWZgu2lRL4ixW
+8ai9GMmyWlrKRWU7azlyB8jK3xwVGUbafo+tGIMkDePIKWGLVFmYk2LKA5dQilDR
+gedqYQKVMEcw7vkI5dmafail5EC0oMylLjc64NIobc95bR4RyNGglaLC58YExsWG
+KiGY/QvmM5SbmMKzUeyUXCtTDFtK61sksnoCTuOTc0Mthaa2wtIlzfnYFtpuvf2f
+Yd76Uevv7fNrxr+WS29cfitbubXqf/NE37uN13d3zr1w8erM9ukmv7ihp2tg/IH+
++vySQ1/FA2ntZOcj15qfXzO4r7z29HRr1xvz+9CKvV1sYeLKKfb41IeTCzNv//bD
+kbE/PjhwVrL6kbvWnRPdm1659MU9Lx4/fPdc+eXywwdXfRfuvfDr+oltacvTn1YX
+hubO3PfSFt0xcTwZLXd8eWi6b3THpv6NvXve233iLN88cPXOtO/66sKZ1pbZ6zce
+m/jl/e6LLVu2HX3zRP+Gh9p/WvXtpdPno/GGPnDl+8n9++948NT9zX9OLp8pbKZP
+9R6eovdGKwcbuKe3e+HRjsudI7ctW/bOUHl2tr6ntPHka2t//AvRslQl
+=jhw5
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
